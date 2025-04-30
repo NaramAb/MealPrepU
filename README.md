@@ -9,4 +9,4 @@ This project was created as part of the course "Introduction to Information Tech
 - Network tests using `ping` and `traceroute`
 - Summary report
 
-Created by: Najem Abu Samra & Selin Kanjar  
+Created by: Nar'am Abu Samra & Selin Kanjar  
